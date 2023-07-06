@@ -5,3 +5,8 @@ Libs/TempTestSuite*
 bin/lib/TempTestCase*
 Reports/
 /bin/
+\.classpath
+\.project
+\.settings/
+bin/lib/
+Libs/
